@@ -20,7 +20,9 @@ npm start
 ## Dev Dependencies
 1. dotenv
 2. express
-
+3. mongoose
+4. bcryptjs
+5. express-validator
 ## Features
 This proyect includes:
 * Rest server
