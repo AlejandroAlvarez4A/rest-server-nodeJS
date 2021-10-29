@@ -37,6 +37,9 @@ SECRETPRIVATEKEY=
 ## Data Base
 Configurate user and database in https://cloud.mongodb.com/ this web provides you and configure that environment MONGO_CNN 
 
+### Documentation postman
+https://documenter.getpostman.com/view/11793626/UV5f7E1M
+
 ### `GET /`
 > http://localhost:8082/api/users
 Returns users only 5 users in this format:
